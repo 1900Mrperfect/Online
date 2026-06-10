@@ -1,6 +1,6 @@
 {
-  "name": "CloudStream FR",
-  "description": "Addons CloudStream FR - French-Stream et Movix",
+  "name": "CloudStream IND-SOUTH",
+  "description": "Addons CloudStream IND-SOUTH",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/plugins.json"
