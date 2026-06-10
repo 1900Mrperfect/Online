@@ -3,6 +3,6 @@
   "description": "Addons CloudStream FR - French-Stream et Movix",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Nikola17/cloudstream-frenchstream/builds/plugins.json"
+    "https://raw.githubusercontent.com/thegnsme/skystream-plugins/repo/dist/plugins.json"
   ]
 }
